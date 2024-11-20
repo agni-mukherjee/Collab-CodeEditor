@@ -29,8 +29,8 @@ If you want to run JusCode locally or contribute to its development, follow thes
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/itspsycho07/Collaborative-Code-Editor.git
-   cd Collaborative-Code-Editor
+   git clone https://git@github.com:agni-mukherjee/Collab-CodeEditor.git
+   cd Collab-CodeEditor
    ```
 2. Install dependencies:
    ```
